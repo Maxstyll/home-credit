@@ -1,0 +1,4 @@
+pandas==1.2.3
+scikit-learn==1.0.1
+imbalanced-learn==0.8.0
+eli5==0.11.0
